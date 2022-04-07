@@ -1,0 +1,1 @@
+In this android application we will name a room for us to video call others and after that, by clicking the Button we will join that room and a new activity will open by the name of our created room, and finally, by using this activity we will have a video chat.
